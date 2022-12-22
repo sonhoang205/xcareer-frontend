@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/xcareer-frontend/static/css/main.c4c7008b.css",
+    "main.js": "/xcareer-frontend/static/js/main.8a23ab70.js",
+    "static/js/787.174a0e6e.chunk.js": "/xcareer-frontend/static/js/787.174a0e6e.chunk.js",
+    "static/media/video-1920.mp4": "/xcareer-frontend/static/media/video-1920.64c3c874560db383e773.mp4",
+    "static/media/inline-form-2.mp4": "/xcareer-frontend/static/media/inline-form-2.eeb7f20bd39137240c3b.mp4",
+    "static/media/bg2.jpg": "/xcareer-frontend/static/media/bg2.0533a82ef0c6e86040fa.jpg",
+    "index.html": "/xcareer-frontend/index.html",
+    "main.c4c7008b.css.map": "/xcareer-frontend/static/css/main.c4c7008b.css.map",
+    "main.8a23ab70.js.map": "/xcareer-frontend/static/js/main.8a23ab70.js.map",
+    "787.174a0e6e.chunk.js.map": "/xcareer-frontend/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c7008b.css",
+    "static/js/main.8a23ab70.js"
+  ]
+}
